@@ -40,6 +40,13 @@ estaa(lugar21,disponible).
 
 
 
+lugar(X,Y):-esta(X,Y),write('Lugar '),write(X),write(' esta '),
+write(Y).
+
+lugares_disponibles(X,Y):-estaa(X,Y),write('Lugar '),write(X),write(' esta '),
+write(Y).
+
+
 
 
 
