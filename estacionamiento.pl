@@ -46,6 +46,15 @@ write(Y).
 lugares_disponibles(X,Y):-estaa(X,Y),write('Lugar '),write(X),write(' esta '),
 write(Y).
 
+soy_maestro(X,Y) :-
+  write('Estacionamientos exclusivo para Maestros.'),
+nl,write('[ 1 , 2 , 3 ]'),nl,write('[ 4 , 5 , 6 ]'),nl,write('[ 7 , 8 , 9 ]'),nl,write('[10,11,12]'),nl,lugar(X,Y).
+
+soy_alumno(X,Y) :-
+  write('Estacionamientos exclusivo para Alumnos.'),
+nl,write('[ 1 , 2 , 3 ]'),nl,write('[ 4 , 5 , 6 ]'),nl,write('[ 7 , 8 , 9 ]'),nl,write('[10,11,12]'),
+nl,write('[13,14,15]'),nl,write('[16,17,18]'),nl,write('[19,20,21]'),nl,lugares_disponibles(X,Y).
+
 
 
 
