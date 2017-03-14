@@ -16,27 +16,27 @@ esta(12,ocupado).
 
 %Estacionamiento para Estudiantes.
 
-estaa(lugar1,disponible).
-estaa(lugar2,ocupado).
-estaa(lugar3,disponible).
-estaa(lugar4,ocupado).
-estaa(lugar5,disponible).
-estaa(lugar6,disponible).
-estaa(lugar7,ocupado).
-estaa(lugar8,ocupado).
-estaa(lugar9,disponible).
-estaa(lugar10,disponible).
-estaa(lugar11,ocupado).
-estaa(lugar12,ocupado).
-estaa(lugar13,disponible).
-estaa(lugar14,ocupado).
-estaa(lugar15,disponible).
-estaa(lugar16,ocupado).
-estaa(lugar17,disponible).
-estaa(lugar18,disponible).
-estaa(lugar19,ocupado).
-estaa(lugar20,ocupado).
-estaa(lugar21,disponible).
+estaa(1,disponible).
+estaa(2,ocupado).
+estaa(3,disponible).
+estaa(4,ocupado).
+estaa(5,disponible).
+estaa(6,disponible).
+estaa(7,ocupado).
+estaa(8,ocupado).
+estaa(9,disponible).
+estaa(10,disponible).
+estaa(11,ocupado).
+estaa(12,ocupado).
+estaa(13,disponible).
+estaa(14,ocupado).
+estaa(15,disponible).
+estaa(16,ocupado).
+estaa(17,disponible).
+estaa(18,disponible).
+estaa(19,ocupado).
+estaa(20,ocupado).
+estaa(21,disponible).
 
 
 
